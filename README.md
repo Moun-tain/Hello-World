@@ -1,2 +1,2 @@
 # Hello-World
-练习使用
+练习使用GitHub
